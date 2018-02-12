@@ -1,5 +1,5 @@
 var kittens = ["Milo", "Otis", "Garfield"]
-Function destructivelyAppendKitten(kittens, Walter) {
+function destructivelyAppendKitten(kittens, Walter) {
   kittens.unshift (Walter);
   return kittens;
 }
