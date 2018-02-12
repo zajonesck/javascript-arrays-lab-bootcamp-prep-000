@@ -1,2 +1,2 @@
 var kittens = ["Milo", "Otis", "Garfield"]
-Function
+Function destructivelyAppendKitten(kittens, Walter)
